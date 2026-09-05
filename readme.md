@@ -105,9 +105,3 @@ pip install pandas
 
 ```bash
 python process_and_purge.py
-
-```
-
----
-
-Would you like to add a Docker section or PostgreSQL connection script to this repository to make it a complete database-backed pipeline project?
